@@ -1,4 +1,4 @@
-
+<img src="photo.jpeg" style="height:464px;margin-right:432px"/>
 
 # RAPPORT ACADÉMIQUE
 
