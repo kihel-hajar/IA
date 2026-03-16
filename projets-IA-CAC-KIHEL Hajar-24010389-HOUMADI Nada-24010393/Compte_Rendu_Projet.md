@@ -1,4 +1,4 @@
-# Compte Rendu — Projet N°14
+# Compte Rendu
 # Prédiction du Turnover des Auditeurs Internes par Machine Learning
 
 ---
