@@ -10,6 +10,11 @@
 **Réalisé par :** KIHEL Hajar / HOUMADI Nada  
 **Date de remise :** Mars 2026  
 
+<img src="Photo-KIHEL-HAJAR.jpeg" style="height:464px;margin-right:432px"/> <img src="Photo-HOUMADI-Nada.jpeg" style="height:464px;margin-right:432px"/>
+---
+
+
+
 ---
 
 ## Table des Matières
